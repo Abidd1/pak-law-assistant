@@ -1,0 +1,7 @@
+{
+  "name": "PakLaw AI Assistant",
+  "description": "An AI assistant providing guidance on Pakistan's constitutional law. Features voice-to-voice, voice-to-chat, and text-chat conversations to help users understand legal regulations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
